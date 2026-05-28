@@ -72,6 +72,10 @@ streamlit run app.py
 - Database integration
 - Real-time property updates
 
+## GitHub Repository
+
+https://github.com/Ravi4787/Ai-real-estate-agent
+
 ## Author
 
 Ravi Teja Pannala
